@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1395912740 source:/home/mac21/Desktop/programaing/Altara_Planet/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<cstdlib>
+	<string>
+	<vector>
+
+1395873789 source:/home/mac21/Desktop/programaing/Altara_Planet/enemigos.cpp
+	"enemigos.h"
+
+1395873892 /home/mac21/Desktop/programaing/Altara_Planet/enemigos.h
+
